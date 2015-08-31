@@ -1,0 +1,10 @@
+This is the second  file with useless content 
+again this is just practice.
+
+We used the cp, mkdir, and mv commads.
+
+1) I made a directory called otherFiles (mkdir)
+2) I made a copy of file1 and saved it as file2 (cp)
+3) I moved file2 to the otherFiles directory (mv)
+
+Thanks for tuing in!
